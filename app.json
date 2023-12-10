@@ -10,7 +10,7 @@
     "stack": "container",
     "env": {
         "BOT_INFO": {
-            "description": "botname;ownername;ownernumber;image url",
+            "description": "botname;Mahar Usman;+923011275412;image url",
             "required": true,
             "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
         },
@@ -34,20 +34,20 @@
             "required": true,
             "value":"null"
         },
-        "SESSION_ID": {
+        "SESSION_ID": {S2JqMmp_J_A_R_V_I_S_CeGc=
             "description": "session id",
             "required": true
         },
         "WORK_TYPE": {
             "description": "worker type public or private",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {mahar666
             "description": "heroku app name, same as above entered",
             "required": true
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY": {11be4484-4122-476f-893e-862d82e62f2b}
             "description": "Heroku account api key, https://dashboard.heroku.com/account",
             "required": true
         },
@@ -59,7 +59,7 @@
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"+923011275412"
         }
     },
       "addons": [{
@@ -72,4 +72,5 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
       }]
   }
-  
+  simdata base
+hack mood
